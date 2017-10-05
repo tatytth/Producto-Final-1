@@ -1,6 +1,6 @@
 Autora:	Tatiana Tudela Hernández
 Squad:	Galácticas
-
+```
 subproceso función principal
 	Hacer
 		Solicita valor de número de opción; 
@@ -45,4 +45,5 @@ subproceso función decipher
 		Fin Para;
 	Muestra el texto de alerta "El texto cifrado es: " y el valor de newTxt;
 Fin subproceso función decipher
+```
 ![Diagrama de flujo CesarCipher](http://imageshack.com/a/img924/7905/RUtAno.jpg)
